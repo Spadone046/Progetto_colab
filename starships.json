@@ -13,7 +13,7 @@
    "hyperdrive_rating": "0.5",
    "MGLT": "75",
    "starship_class": "Light freighter"
-}}
+}},
 { "starship": {
    "name": "Y-wing",
    "model": "BTL Y-wing",
@@ -28,7 +28,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "80",
    "starship_class": "assault starfighter"
-}}
+}},
 { "starship": {
    "name": "X-wing",
    "model": "T-65 X-wing",
@@ -43,7 +43,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "100",
    "starship_class": "Starfighter"
-}}
+}},
 { "starship": {
    "name": "TIE Advanced x1",
    "model": "Twin Ion Engine Advanced x1",
@@ -57,7 +57,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "105",
    "starship_class": "Starfighter"
-}}
+}},
 { "starship": {
    "name": "Executor",
    "model": "Executor-class star dreadnought",
@@ -71,7 +71,7 @@
    "hyperdrive_rating": "2.0",
    "MGLT": "40",
    "starship_class": "Star dreadnought"
-}}
+}},
 { "starship": {
    "name": "Rebel transport",
    "model": "GR-75 medium transport",
@@ -85,7 +85,7 @@
    "hyperdrive_rating": "4.0",
    "MGLT": "20",
    "starship_class": "Medium transport"
-}}
+}},
 { "starship": {
    "name": "CR90 corvette",
    "model": "CR90 corvette",
@@ -100,7 +100,7 @@
    "hyperdrive_rating": "2.0",
    "MGLT": "60",
    "starship_class": "corvette"
-}}
+}},
 { "starship": {
    "name": "Slave 1",
    "model": "Firespray-31-class patrol and attack",
@@ -114,7 +114,7 @@
    "hyperdrive_rating": "3.0",
    "MGLT": "70",
    "starship_class": "Patrol craft"
-}}
+}},
 { "starship": {
    "name": "Imperial shuttle",
    "model": "Lambda-class T-4a shuttle",
@@ -129,7 +129,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "50",
    "starship_class": "Armed government transport"
-}}
+}},
 { "starship": {
    "name": "EF76 Nebulon-B escort frigate",
    "model": "EF76 Nebulon-B escort frigate",
@@ -144,7 +144,7 @@
    "hyperdrive_rating": "2.0",
    "MGLT": "40",
    "starship_class": "Escort ship"
-}}
+}},
 { "starship": {
    "name": "Calamari Cruiser",
    "model": "MC80 Liberty type Star Cruiser",
@@ -157,7 +157,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "60",
    "starship_class": "Star Cruiser"
-}}
+}},
 { "starship": {
    "name": "A-wing",
    "model": "RZ-1 A-wing Interceptor",
@@ -172,7 +172,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "120",
    "starship_class": "Starfighter"
-}}
+}},
 { "starship": {
    "name": "B-wing",
    "model": "A/SF-01 B-wing starfighter",
@@ -187,7 +187,7 @@
    "hyperdrive_rating": "2.0",
    "MGLT": "91",
    "starship_class": "Assault Starfighter"
-}}
+}},
 { "starship": {
    "name": "Star Destroyer",
    "model": "Imperial I-class Star Destroyer",
@@ -202,7 +202,7 @@
    "hyperdrive_rating": "2.0",
    "MGLT": "60",
    "starship_class": "Star Destroyer"
-}}
+}},
 { "starship": {
    "name": "Republic Cruiser",
    "model": "Consular-class cruiser",
@@ -213,7 +213,7 @@
    "passengers": "16",
    "hyperdrive_rating": "2.0",
    "starship_class": "Space cruiser"
-}}
+}},
 { "starship": {
    "name": "Droid control ship",
    "model": "Lucrehulk-class Droid Control Ship",
@@ -225,7 +225,7 @@
    "consumables": "500 days",
    "hyperdrive_rating": "2.0",
    "starship_class": "Droid control ship"
-}}
+}},
 { "starship": {
    "name": "Naboo fighter",
    "model": "N-1 starfighter",
@@ -239,7 +239,7 @@
    "consumables": "7 days",
    "hyperdrive_rating": "1.0",
    "starship_class": "Starfighter"
-}}
+}},
 { "starship": {
    "name": "Naboo Royal Starship",
    "model": "J-type 327 Nubian royal starship",
@@ -249,7 +249,7 @@
    "crew": "8",
    "hyperdrive_rating": "1.8",
    "starship_class": "yacht"
-}}
+}},
 { "starship": {
    "name": "Scimitar",
    "model": "Star Courier",
@@ -263,7 +263,7 @@
    "consumables": "30 days",
    "hyperdrive_rating": "1.5",
    "starship_class": "Space Transport"
-}}
+}},
 { "starship": {
    "name": "J-type diplomatic barge",
    "model": "J-type diplomatic barge",
@@ -276,7 +276,7 @@
    "consumables": "1 year",
    "hyperdrive_rating": "0.7",
    "starship_class": "Diplomatic barge"
-}}
+}},
 { "starship": {
    "name": "AA-9 Coruscant freighter",
    "model": "Botajef AA-9 Freighter-Liner",
@@ -284,7 +284,7 @@
    "length": "390",
    "passengers": "30000",
    "starship_class": "freighter"
-}}
+}},
 { "starship": {
    "name": "Jedi starfighter",
    "model": "Delta-7 Aethersprite-class interceptor",
@@ -298,7 +298,7 @@
    "consumables": "7 days",
    "hyperdrive_rating": "1.0",
    "starship_class": "Starfighter"
-}}
+}},
 { "starship": {
    "name": "H-type Nubian yacht",
    "model": "H-type Nubian yacht",
@@ -308,7 +308,7 @@
    "crew": "4",
    "hyperdrive_rating": "0.9",
    "starship_class": "yacht"
-}}
+}},
 { "starship": {
    "name": "Sentinel-class landing craft",
    "model": "Sentinel-class landing craft",
@@ -323,7 +323,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "70",
    "starship_class": "landing craft"
-}}
+}},
 { "starship": {
    "name": "Republic Assault ship",
    "model": "Acclamator I-class assault ship",
@@ -335,7 +335,7 @@
    "consumables": "2 years",
    "hyperdrive_rating": "0.6",
    "starship_class": "assault ship"
-}}
+}},
 { "starship": {
    "name": "Solar Sailer",
    "model": "Punworcca 116-class interstellar sloop",
@@ -349,7 +349,7 @@
    "consumables": "7 days",
    "hyperdrive_rating": "1.5",
    "starship_class": "yacht"
-}}
+}},
 { "starship": {
    "name": "Trade Federation cruiser",
    "model": "Providence-class carrier/destroyer",
@@ -363,7 +363,7 @@
    "consumables": "4 years",
    "hyperdrive_rating": "1.5",
    "starship_class": "capital ship"
-}}
+}},
 { "starship": {
    "name": "Theta-class T-2c shuttle",
    "model": "Theta-class T-2c shuttle",
@@ -377,7 +377,7 @@
    "consumables": "56 days",
    "hyperdrive_rating": "1.0",
    "starship_class": "transport"
-}}
+}},
 { "starship": {
    "name": "Republic attack cruiser",
    "model": "Senator-class Star Destroyer",
@@ -391,7 +391,7 @@
    "consumables": "2 years",
    "hyperdrive_rating": "1.0",
    "starship_class": "star destroyer"
-}}
+}},
 { "starship": {
    "name": "Naboo star skiff",
    "model": "J-type star skiff",
@@ -402,7 +402,7 @@
    "passengers": "3",
    "hyperdrive_rating": "0.5",
    "starship_class": "yacht"
-}}
+}},
 { "starship": {
    "name": "Jedi Interceptor",
    "model": "Eta-2 Actis-class light interceptor",
@@ -416,7 +416,7 @@
    "consumables": "2 days",
    "hyperdrive_rating": "1.0",
    "starship_class": "starfighter"
-}}
+}},
 { "starship": {
    "name": "arc-170",
    "model": "Aggressive Reconnaissance-170 starfighte",
@@ -431,7 +431,7 @@
    "hyperdrive_rating": "1.0",
    "MGLT": "100",
    "starship_class": "starfighter"
-}}
+}},
 { "starship": {
    "name": "Banking clan frigte",
    "model": "Munificent-class star frigate",
@@ -443,7 +443,7 @@
    "consumables": "2 years",
    "hyperdrive_rating": "1.0",
    "starship_class": "cruiser"
-}}
+}},
 { "starship": {
    "name": "Belbullab-22 starfighter",
    "model": "Belbullab-22 starfighter",
@@ -457,7 +457,7 @@
    "consumables": "7 days",
    "hyperdrive_rating": "6",
    "starship_class": "starfighter"
-}}
+}},
 { "starship": {
    "name": "V-wing",
    "model": "Alpha-3 Nimbus-class V-wing starfighter",
@@ -471,14 +471,14 @@
    "consumables": "15 hours",
    "hyperdrive_rating": "1.0",
    "starship_class": "starfighter"
-}}
+}},
 { "starship": {
    "name": "T-70 X-wing fighter",
    "model": "T-70 X-wing fighter",
    "manufacturer": "Incom",
    "crew": "1",
    "starship_class": "fighter"
-}}
+}},
 { "starship": {
    "name": "Death Star",
    "model": "DS-1 Orbital Battle Station",
