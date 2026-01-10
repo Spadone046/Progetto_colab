@@ -388,6 +388,7 @@
    "cargo_capacity": "50000",
    "consumables": "56 days",
    "hyperdrive_rating": "1.0",
+   "MGLT":"Non Definito",
    "starship_class": "transport"
 }, {
    "name": "Republic attack cruiser",
@@ -401,16 +402,21 @@
    "cargo_capacity": "20000000",
    "consumables": "2 years",
    "hyperdrive_rating": "1.0",
+   "MGLT":"Non Definito",
    "starship_class": "star destroyer"
 }, {
    "name": "Naboo star skiff",
    "model": "J-type star skiff",
    "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+   "cost_in_credits":"Non Definito",
    "length": "29.2",
    "max_atmosphering_speed": "1050",
    "crew": "3",
    "passengers": "3",
+   "cargo_capacity":"Non Definito",
+   "consumables":"Non Definito",
    "hyperdrive_rating": "0.5",
+   "MGLT":"Non Definito",
    "starship_class": "yacht"
 }, {
    "name": "Jedi Interceptor",
@@ -424,6 +430,7 @@
    "cargo_capacity": "60",
    "consumables": "2 days",
    "hyperdrive_rating": "1.0",
+   "MGLT":"Non Definito",
    "starship_class": "starfighter"
 }, {
    "name": "arc-170",
@@ -445,10 +452,13 @@
    "manufacturer": "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries",
    "cost_in_credits": "57000000",
    "length": "825",
+   "max_atmosphering_speed":"Non Definito",
    "crew": "200",
+   "passengers": "0",
    "cargo_capacity": "40000000",
    "consumables": "2 years",
    "hyperdrive_rating": "1.0",
+   "MGLT":"Non Definito",
    "starship_class": "cruiser"
 }, {
    "name": "Belbullab-22 starfighter",
@@ -462,6 +472,7 @@
    "cargo_capacity": "140",
    "consumables": "7 days",
    "hyperdrive_rating": "6",
+   "MGLT":"Non Definito",
    "starship_class": "starfighter"
 }, {
    "name": "V-wing",
@@ -475,19 +486,15 @@
    "cargo_capacity": "60",
    "consumables": "15 hours",
    "hyperdrive_rating": "1.0",
+   "MGLT":"Non Definito",
    "starship_class": "starfighter"
-}, {
-   "name": "T-70 X-wing fighter",
-   "model": "T-70 X-wing fighter",
-   "manufacturer": "Incom",
-   "crew": "1",
-   "starship_class": "fighter"
-}, {
+},{
    "name": "Death Star",
    "model": "DS-1 Orbital Battle Station",
    "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
    "cost_in_credits": "1000000000000",
    "length": "120000",
+   "max_atmosphering_speed":"Non Definito",
    "crew": "342953",
    "passengers": "843342",
    "cargo_capacity": "1000000000000",
