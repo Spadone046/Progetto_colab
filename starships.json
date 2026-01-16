@@ -290,6 +290,7 @@
    "passengers": "30000",
    "cargo_capacity":"Non Definito",
    "consumables":"Non Definito",
+   "hyperdrive_rating": "non definito",
    "MGLT":"Non Definito",
    "starship_class": "freighter"
 },{
